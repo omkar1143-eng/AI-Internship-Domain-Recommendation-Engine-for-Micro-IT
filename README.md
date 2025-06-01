@@ -15,7 +15,7 @@ This AI-based system recommends the best-fit internship domains to students by a
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/your-username/internship-recommender.git
+git clone https://omkar1143-eng.github.io/AI-Internship-Domain-Recommendation-Engine-for-Micro-IT/
 cd internship-recommender
 pip install -r requirements.txt
 ```
