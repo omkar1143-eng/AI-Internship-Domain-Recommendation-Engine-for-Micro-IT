@@ -1,4 +1,4 @@
-# AI Internship Domain Recommendation Engine
+# AI Internship Domain Recommendation Engine for Micro IT
 
 ## Overview
 This AI-based system recommends the best-fit internship domains to students by analyzing their resumes, skills, interests, and past experiences. It uses a simple content-based filtering approach to match user input with predefined domain profiles.
@@ -36,6 +36,14 @@ streamlit run app.py
 - Cloud Computing
 - IoT/Embedded Systems
 - Blockchain
+---
+## 🏢 Ideal for
 
-## Author
+- Micro IT Company
+- Internship Program Managers
+- Academic Institutions
+
+---
+
+## 📬 Contact
 KANDUKURI OMKAR - omkark5125@gmail.com
